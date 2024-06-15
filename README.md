@@ -1,2 +1,2 @@
 # Data_Mining_Project
-This is my final project for BAIS 3500: Data Mining. This project aimed to predict teams that would make the Sweet Sixteen of the NCAA men's basketball tournament utilizing season averages and advanced basketball analytics.
+This is my final project for BAIS 3500: Data Mining. This project aimed to predict teams that would make the Sweet Sixteen of the NCAA men's basketball tournament utilizing season averages and advanced basketball analytics. Included is the project report, and the Orange Data Mining software utilized to derive the analysis. This report was created by Sneh Patel, Reid Erickson, Jake Burger, and myself, Austin Lien.
